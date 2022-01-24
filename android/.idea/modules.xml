@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Project2.iml" filepath="$PROJECT_DIR$/.idea/modules/Project2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Project2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Project2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1511851606/Project2.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1511851606/Project2.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2077385042/Project2.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2077385042/Project2.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1966137414/Project2.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1966137414/Project2.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-815214548/Project2.react-native-sqlite-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-815214548/Project2.react-native-sqlite-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1045428849/Project2.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1045428849/Project2.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

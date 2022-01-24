@@ -1,0 +1,14 @@
+com/project2/ReactNativeFlipper.java
+ com.list.locked.ReactNativeFlipper
+ com.list.locked.ReactNativeFlipper$1
+ com.list.locked.ReactNativeFlipper$2
+ com.list.locked.ReactNativeFlipper$2$1
+com/list/locked/MainApplication.java
+ com.list.locked.MainApplication
+ com.list.locked.MainApplication$1
+com/list/locked/MainActivity.java
+ com.list.locked.MainActivity
+com/list/locked/BuildConfig.java
+ com.list.locked.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
