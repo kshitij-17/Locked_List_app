@@ -85,3 +85,9 @@ Run the following commands in the command line from inside the project folder.
 
 
 
+
+## 🔗 GIFs
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91455206/150822693-75a41f37-8d3a-4692-954c-22b7e0523118.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/91455206/150822730-45acbc18-a5c6-4fe6-bc7b-495bac272d43.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/91455206/150822741-47930ae5-fc03-4e58-b1d9-654f26b8b19a.gif)
